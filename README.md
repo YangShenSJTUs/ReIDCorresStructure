@@ -4,5 +4,5 @@ Person Re-identification with Correspondence Structure Learning
 #### * corresponding author email: wylin@sjtu.edu.cn
 The paper refers to the 'paper.pdf'.
 ----
-PS: The link of Road dataset will be published soon.
+PS: The Road dataset will be published soon.
 ----
